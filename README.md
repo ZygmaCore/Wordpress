@@ -17,8 +17,8 @@ Buat kamu yang penasaran kenapa PHP masih eksis di tahun 2025 😭
 Clone project ini:
 
 ```bash
-git clone https://github.com/lu/project-anti-php.git
-cd project-anti-php
+git clone https://github.com/ZygmaCore/Wordpress.git
+cd Wordpress
 ```
 Jalankan dengan:
 
